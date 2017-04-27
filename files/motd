@@ -1,0 +1,4 @@
+User: admin
+Password: admin
+The admin user has sudo permissions (no password required)
+SSH Keys are stored in /home/admin/.ssh
